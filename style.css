@@ -1,0 +1,23 @@
+html, body {
+
+    background-color: #000000;
+    text-align: center;
+    font-size: 40px;
+    font-family: Helvetica, sans-serif;
+  /*   stop page from scrolling */
+    /* overflow: hidden;
+    position: fixed; */
+
+    position:fixed;
+  }
+  
+
+ 
+
+  /* video { 
+	display: block; 
+
+    
+    
+}    */
+
